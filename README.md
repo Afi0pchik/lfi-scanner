@@ -29,8 +29,7 @@ Supports:
 
 ## Requirements
 
-- Python 3.6+  
-- Modules: `requests`, `rich`
+- Python 3.0+  
 
 ---
 
