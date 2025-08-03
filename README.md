@@ -1,6 +1,6 @@
 # Advanced LFI Scanner
 
-[![Python Version](https://img.shields.io/badge/python-3.6%2B-blue)]()
+[![Python Version](https://img.shields.io/badge/python-3.0%2B-blue)]()
 
 ---
 
