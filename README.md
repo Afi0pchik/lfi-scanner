@@ -46,5 +46,5 @@ Supports:
 
 ## Usage
 
-- python3 scanner.py "url"
+- python3 scanner.py "PASTE_YOUR_URL_HERE"
 
